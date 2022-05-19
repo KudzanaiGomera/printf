@@ -1,9 +1,5 @@
 # 0x11. C - printf
 
-Foundations - Low-level programming & Algorithm ― Hatching out
-by Julien Barbier, co-founder at ALX School.
-Project to be done in teams of 2 people (your team: Cristhiam Camilo Baquero Gomez, Camilo Bayona Orduz)
-
 ## Background Context
 
 - Write your own `printf` function.
