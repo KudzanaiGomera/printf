@@ -1,4 +1,4 @@
-.TH _PRINTF "1" "29 October 2019" "0x11" "_printf man page"
+.TH _PRINTF "1" "2022" "0x11" "_printf man page"
 .SH NAME
 _printf - print data and format
 .SH SYNOPSIS
